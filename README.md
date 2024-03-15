@@ -36,24 +36,33 @@ page 2 : Analysis
 Following inference can be drawn from the Dashboard    
 KPI 1:
 - There are 3.37M of overall standard cost.
+
 KPI 2:
 - There are 3.93M of overall unit price.
+
 KPI 3: 
 - There are 0.44M overall tax aamount.
+
 KPI 4:
 - In the category of bikes females had the more sales amount with 50.49% and in accessories and clothing male has more sales amount of 50.15% and 50.01%.
 - In subcategory bikes has a more sales amount road bikes with 14.12m, mountain bikes with 9.95m and touring bikes with 3.84m.
+
 KPI 5:
 - In the category bikes has a more grand total of 15.8M.
 - And United States and Australia has high sales amount with9.4m and 9.1m resp.
+
 KPI 6:
 - The overall sales amount is 29.31M.
+
 KPI 7:
 - In the occupation of professional and skilled manual the male has more sales amount of 51.83% and 51.96% resp.
 - In the occupation of management and clerical the females has high sales amount of 51.09% and 51.68% resp.
+
 KPI 8:
 - Sales amount and yearly income is the same in the year from 2014 to 2017.
+
 KPI 9:
 - The model name Touring-3000 has more sales amount of 83.1% and region Southwest has high sales amoun of 44.76%.
+
 KPI 10:
 - In the category satndard cost of the components is high and unit price of bikes is high with 23M.
