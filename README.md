@@ -65,4 +65,4 @@ KPI 9:
 - The model name Touring-3000 has more sales amount of 83.1% and region Southwest has high sales amoun of 44.76%.
 
 KPI 10:
-- In the category satndard cost of the components is high and unit price of bikes is high with 23M.
+- In the category standard cost of the components is high and unit price of bikes is high with 23M.
